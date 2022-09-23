@@ -23,7 +23,9 @@
   "homepage": "https://github.com/ricky8221/Team_Profile_Generator_Qi_Chen_Module_10#readme",
   "dependencies": {
     "fs": "^0.0.1-security",
-    "inquirer": "^8.2.4",
+    "inquirer": "^8.2.4"
+  },
+  "devDependencies": {
     "jest": "^29.0.3"
   }
 }
