@@ -1,5 +1,39 @@
 # Team_Profile_Generator_Qi_Chen_Module_10
- 
+
+## Technology Used
+* JavaScript
+* HTML
+* CSS
+* jQuery
+* BootStrap
+* npm
+* inquirer
+* jest
+* fs
+* Cloudflare
+* Google font
+* JSDelivr 
+
+## Description
+Generate a team profile HTML with:
+* manager(Name, ID, Email, office number)
+* Engineer(Name, ID, Email, office, Github link) 
+* Intern(Name, ID, Email, office, school)
+
+
+## Setup/Installation
+* Clone this repository to your desktop
+* Navigate to the top level of the directory
+* Open indes.js in your code editor
+
+## Known Bugs
+N/A
+
+## License
+MIT
+
+Copyright(c) 2022 Qi Chen
+
 ## User Story
 AS A manager<br>
 I WANT to generate a webpage that displays my team's basic info<br>
@@ -23,4 +57,3 @@ WHEN I select the intern option<br>
 THEN I am prompted to enter the intern’s name, ID, email, and school, and I am taken back to the menu<br>
 WHEN I decide to finish building my team<br>
 THEN I exit the application, and the HTML is generated<br>
-
